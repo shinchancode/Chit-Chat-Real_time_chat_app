@@ -14,5 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "## View Live Demo <pre><center><a href=\"https://chit-chat-17.herokuapp.com/\"><b>https://chit-chat-17.herokuapp.com/</b></a></center></pre>"
+  "description": "## View Live Demo <pre><center><a href=\"https://chit-chat-17.herokuapp.com/\"><b>https://chit-chat-17.herokuapp.com/</b></a></center></pre>",
+  "devDependencies": {}
 }
