@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">A web messenger application. Enjoy free text chat and other features.</p>
-<p align="center">This application built using Node.js, Express, Socket.io and Heroku (Hosting)</p>
+<p align="center">This application built using Node.js, Express, Socket.io and Render (Hosting)</p>
 
 ## Available Scripts
 
