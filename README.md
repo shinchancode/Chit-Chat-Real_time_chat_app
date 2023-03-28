@@ -1,7 +1,7 @@
 # Chit-Chat-Real_time_chat_app
 
 ## View Live Demo
-<pre><center><a href="https://chit-chat-17.herokuapp.com/"><b>https://chit-chat-17.herokuapp.com/</b></a></center></pre>
+<pre><center><a href="https://chit-chat-app.onrender.com/"><b>https://chit-chat-app.onrender.com/</b></a></center></pre>
 
 <p align="center">
   <img src="https://github.com/shinchancode/Chit-Chat-Real_time_chat_app/blob/main/js/logo.png" height="300px">
